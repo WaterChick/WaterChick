@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Minecraft Java Plugins<br>🌱 I currently work for BadHub.cz<br>💬 Checkout my porfolio https://waterchick.dev
+👯 I’m looking to collaborate on Minecraft Java Plugins<br>🌱 I currently work for BadHub.cz<br>💬 Checkout my [porfolio](https://waterchick.dev)
 
 
 ## 🌐 Socials:
